@@ -15,6 +15,6 @@ As traduções geradas pelos modelos estão identificadas no repositório de aco
 
 Cada um dos textos usados foi escolhido de acordo com meus gostos pessoais e de modo aleatório. O único que foi escolhido propositalmente foi o texto para o tradutor de PDF. Minha intenção foi escolher um texto com vocabulário não muito usual e bastante técnico para de fato testar o tradutor. A tradução obtida pelo código criado foi bastante satisfatória, sendo melhor do que alguns tradutores que já usei.
 
-Por fim, vale ressaltar que os endpoints e as chaves de acesso foram trocados por "seu-endpoint" e "sua-chave", devido a um conflito no momento da subida do commit para o repositório. Os valores que foram utilizados antes, por mais que fossem sigilosos, não possuiriam mais valor, uma vez que o tradutor foi encerrado após o exercício. Portanto, para executar o código, será necessário usar um valor válido nos campos correspondentes ao endpoit e à chave. 
+Por fim, vale ressaltar que os endpoints e as chaves de acesso foram trocados por "seu-endpoint" e "sua-chave", devido a um conflito no momento da subida do commit para o repositório. Os valores que foram utilizados antes, por mais que fossem sigilosos, não possuiriam mais valor, uma vez que o tradutor foi encerrado após o exercício. Portanto, para executar o código, será necessário usar um valor válido nos campos correspondentes ao endpoint e à chave. 
 
 
